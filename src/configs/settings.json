@@ -1,0 +1,21 @@
+{
+    "manRole": "", 
+    "womanRole": "",
+    "unregisterRole": "",
+
+    "manRoles": ["", ""],
+    "womanRoles": ["", ""],
+    "unregisterRoles": [""],
+    "suspect": [""],
+    
+    "minRole": "",
+    "welcomeLog": "",
+    "rulesChannel": "",
+    "generalChat": "",
+
+    "vipRole": "",
+    "familyRole": "",
+
+    "taglıAlım": false,
+    "yaşLimit": 13
+}
